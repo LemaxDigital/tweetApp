@@ -203,7 +203,7 @@ var sendTweetMsg = function(){
 		"user":  {
 		  "id": recentTweets.length + 1000,
 		  "screen_name": "Lemax",
-		  "profile_image_url": "http://media.indiatimes.in/media/content/2012/Oct/2_1323245261_1350018808_460x460.jpg"
+		  "profile_image_url": "http://www.techpluto.com/wp-content/uploads/2013/01/How-to-Create-a-Twitter-Header.png"
 		}
 	}
 	
